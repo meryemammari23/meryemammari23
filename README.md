@@ -28,4 +28,4 @@ Développement backend et full stack, conception d'API REST, architecture micros
 Diplôme d'Ingénieur d'État en Génie Informatique, option Intelligence Artificielle, EHEIM Oujda (2022 – 2027)
 
 ## Contact
-[LinkedIn](https://www.linkedin.com/in/meryem-a-4627aa227) · meryemammari2004@gmail.com
+[LinkedIn](https://www.linkedin.com/in/meryem-a-4627aa227) · meryemammari2004@gmail.com / meryemammari08@gmail.com
